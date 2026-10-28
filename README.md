@@ -1,4 +1,4 @@
-<img src="assets/fetch.svg" width="100%" alt="beardynh@github — backend · data · ai agents">
+<img src="assets/fetch.svg?v=2" width="100%" alt="beardynh@github — backend · data · ai agents">
 
 <img src="https://raw.githubusercontent.com/Beardynh/Beardynh/output/heatmap.svg" width="100%" alt="contribuciones del último año">
 
